@@ -1,0 +1,14 @@
+.gradient-background{
+    background: #94faea;
+    background: -webkit-radial-gradient(circle, #94faea 0%, #e0e6bc 100%);
+    background: radial-gradient(circle, #94faea 0%, #e0e6bc 100%);
+}
+
+.body-image{
+    height: 500px;
+    border-radius: 10%;
+}
+
+.p{
+    font-family: 'Libre Baskerville', serif;
+}
